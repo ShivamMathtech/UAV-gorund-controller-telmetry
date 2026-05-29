@@ -3,7 +3,7 @@
 ## Professional DIY UAV Ground Controller using Arduino, Raspberry Pi, and LoRa
 
 A portable long-range UAV Ground Control Station (GCS) designed for telemetry, mission monitoring, FPV streaming, and UAV communication using LoRa telemetry systems.
-![image](hardware/controller_overview.png)
+![image](Hardware/controller_overview.png)
 
 ---
 
